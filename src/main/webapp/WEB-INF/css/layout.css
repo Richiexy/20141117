@@ -1,0 +1,21 @@
+body
+{
+	font-size: 12px;
+}
+#header {
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	height:73px;
+}
+#logo {
+	margin-right:20px;
+	margin-left:10px;
+}
+#footer
+{
+	text-align:center;
+	padding-top:10px;
+}
+#logout{
+	cursor: pointer;
+}
